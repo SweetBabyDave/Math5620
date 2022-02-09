@@ -66,4 +66,5 @@
     The 2-norm of the error is:
      0.0029360330838805212
      
-     
+![Solution_AU=F](https://user-images.githubusercontent.com/82894531/153264433-67ae46fd-24fa-475d-917f-48bfd1a14af4.png)
+![Error_Graph](https://user-images.githubusercontent.com/82894531/153264446-fede92ea-583a-43f7-bce1-e8fcc8664c70.png)
