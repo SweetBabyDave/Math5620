@@ -86,3 +86,5 @@
 
 **Output:**
 
+![4-Stage Error](https://user-images.githubusercontent.com/82894531/155617658-b2555ab4-8269-4502-aeba-14dc93b7db64.png)
+![Midpoint Error](https://user-images.githubusercontent.com/82894531/155617666-2a7422c9-fc1e-4b52-9313-99a0654400f2.png)
