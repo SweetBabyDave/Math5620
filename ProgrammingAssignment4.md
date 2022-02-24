@@ -1,5 +1,11 @@
-    
-    
+**Author:** David Merkley
+
+**Language:** Python
+
+**Description/Purpose:** This code solves a IVP using 2 different methods. The 4-Step Runge Kutta method and the midpoint method. It calculates the error of these solutions and plots the error. It also uses a backward Euler method to calculate a U^n+1 so the midpoint method can be used.
+
+**Implementation/Code:** 
+
     from matplotlib import pyplot as plt
     import numpy as np
 
@@ -76,3 +82,7 @@
 
 
     main()
+
+
+**Output:**
+
