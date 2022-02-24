@@ -68,7 +68,7 @@
         for listExact2_i, listMid_i in zip(listMid, listExact2):
             listErrorEuler.append(abs(listExact2_i - listMid_i))
 
-        # Plotting the Errors
+        # Plotting the Errors and Graphs for Comparison
         x1 = np.linspace(0, 1, 11)
         plt.plot(x1, listErrorU, marker='o')
         plt.title("4-Stage Runge-Kutta Method Error")
@@ -79,10 +79,21 @@
         plt.title("Midpoint Method Error")
         plt.xticks(x2)
         plt.show()
+        plt.plot(x1, listU, marker='o', label='Runge Kutta Solution')
+        plt.plot(x1, listExact1, marker='o', label ='Exact Solution')
+        plt.legend()
+        plt.title("4-Stage Runge-Kutta Comparison")
+        plt.xticks(x1)
+        plt.show()
+        plt.plot(x2, listMid, marker='o', label='Midpoint Solution')
+        plt.plot(x2, listExact2, marker='o', label='Exact Solution')
+        plt.title("Midpoint Method Comparison (Backward Euler to Solve for U^n+1)")
+        plt.legend()
+        plt.xticks(x2)
+        plt.show()
 
 
     main()
-
 
 **Output:**
 
