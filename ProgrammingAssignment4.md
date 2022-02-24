@@ -88,3 +88,5 @@
 
 ![4-Stage Error](https://user-images.githubusercontent.com/82894531/155617658-b2555ab4-8269-4502-aeba-14dc93b7db64.png)
 ![Midpoint Error](https://user-images.githubusercontent.com/82894531/155617666-2a7422c9-fc1e-4b52-9313-99a0654400f2.png)
+![4-Step Comparison](https://user-images.githubusercontent.com/82894531/155620275-22cc1dd6-d916-481d-9ed0-7c8c71b4a73d.png)
+![Midpoint Method Comparison](https://user-images.githubusercontent.com/82894531/155620293-e89b1bd3-8155-484c-beef-7f411c433bd9.png)
