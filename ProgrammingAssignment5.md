@@ -50,6 +50,7 @@ c).
     main()
 
 **Output:**
+
 K1 =3
 ![ForwardEulerK1=3](https://user-images.githubusercontent.com/82894531/160260811-f1668286-58a1-4f57-b321-3968a71ee3ca.png)
 
