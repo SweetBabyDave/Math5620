@@ -8,7 +8,7 @@ a). From Example 7.12 in the book, a matrix was used to find the eigenvalues of 
 
 b). In practice, I started to see instability once the k value was equal to anything less than or equal to 1/12.
 
-c). 
+c). The same thing was done for when k1 was equal to 300 and k2 was equal to 1. An eigenvalue was found which led to the bounding region where the k value had to be less than 1/1650. This led to me choosing a value of k equal to 1/2000. In practice, I started to see instability once the value was anything less than or equal to 1/1600.
 
 **Implementation/Code:** 
 
